@@ -83,6 +83,8 @@ The notebook defines two custom Seaborn palettes:
   • Candy Palette: ["#22EAFE", "#D180FF", "#FF80D6", "#FFF980"] (Used for positive metrics)
     
   • Dark Palette: ["#16101B", "#691372", "#818185", "#860631"] (Used for structural/darker themes)
+
+Note: You can use any color pallette you like for this project. These are just the two I picked, and also in case anyone is wondering what type of code to write when using custom color pallettes.
     
 ## Notes
   • Environment: This code was originally developed for the Kaggle environment. If running locally, update the file paths in pd.read_csv() to match your local directory structure.
